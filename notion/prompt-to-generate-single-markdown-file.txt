@@ -1,0 +1,2 @@
+A pasta notion-export-files contem o export com todos subfolders do notion.
+Gere um único arquivo em markdown compilando o export como um todo.
